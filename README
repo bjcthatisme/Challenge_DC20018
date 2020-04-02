@@ -1,1 +1,11 @@
-This is a file stub to allow creation of information within the DC20018 team's Git folder for the data challenge.
+UMD Data Challenge 2020
+
+Background
+
+DOTS installed Numina sensors at 5 intersections on campus to count bikes, pedestrians, cars, buses, trucks and identify path of travel. The purpose of collecting traffic count sensor data is to improve DOTS’ ability to monitor traffic and understand travel behavior by pedestrians, bicyclists, and drivers over time.
+
+The dataset is explored in the following aspects:
+
+•	Summarize (visualize) the time trend for traffic by each mode and the temporal dynamic of traffic at each location.
+•	Explain the dynamic that we observe. Explore the impact of weather conditions, class schedules, noticeable events on campus (e.g. Game Day), and other factors that may cause traffic to fluctuate.
+• Use the factors we found before to build a traffic count predictive model using data science techniques and explain how can the model be used in several situation in the future.
